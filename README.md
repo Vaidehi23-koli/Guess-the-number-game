@@ -1,8 +1,10 @@
 #Guessthenumbergame
 
 #output
+
 Welcome to the Number Guessing Game!
 I have selected a number between 1 and 100. Can you guess it?
+
 Enter your guess: 50
 Too high! Try again.
 Enter your guess: 30
